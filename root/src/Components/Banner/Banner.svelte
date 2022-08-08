@@ -48,12 +48,6 @@
         font-family: -apple-system-title,system-ui;
     }
 
-    .watch-btn {
-        margin: auto 20px;
-        position: relative;
-        top: 8px;
-    }
-
     section a {
         text-decoration: none;
     }

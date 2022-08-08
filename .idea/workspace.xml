@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Fix build">
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/index.html" afterDir="false" />
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Another change for pages">
+      <change afterPath="$PROJECT_DIR$/root/gh-pages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/About/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/About/About.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Banner/Banner.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/Banner/Banner.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/Footer/Footer.svelte" afterDir="false" />
@@ -25,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2D2Vu9H1uLURd5ZdFp2LdSpFnv4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,11 +56,11 @@
       <recent name="$PROJECT_DIR$/public/downloads" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/root" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/root/public" />
+      <recent name="$PROJECT_DIR$/root" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
-      <recent name="$PROJECT_DIR$/src/Components/Navbar" />
     </key>
   </component>
   <component name="RunManager">
@@ -88,7 +94,7 @@
       <workItem from="1659898006726" duration="6251000" />
       <workItem from="1659905066523" duration="159000" />
       <workItem from="1659905333079" duration="12745000" />
-      <workItem from="1659932956635" duration="860000" />
+      <workItem from="1659932956635" duration="1579000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -104,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659942637469</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Another change for pages">
+      <created>1659942842767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659942842767</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Moved files (attempt GH pages compatibility)" />
     <MESSAGE value="Fix build" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix build" />
+    <MESSAGE value="Another change for pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another change for pages" />
   </component>
 </project>

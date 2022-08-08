@@ -33,6 +33,7 @@
     .about-img {
         padding-top: 40px;
     }
+    /*
     .rounded-img-box {
         object-fit: cover;
         width: 400px;
@@ -40,7 +41,7 @@
         border-radius: 20%;
         overflow: hidden;
     }
-
+    */
     .about-title {
         margin-top: 8%;
         margin-bottom: 20px;
