@@ -3056,7 +3056,7 @@ var app = (function () {
     			attr_dev(div1, "class", "row section-body");
     			add_location(div1, file$4, 13, 8, 446);
     			attr_dev(a2, "class", "btn btn-primary round-border main-bgcolor svelte-chmee7");
-    			attr_dev(a2, "href", "/downloads/Resume.pdf");
+    			attr_dev(a2, "href", "./downloads/Resume.pdf");
     			attr_dev(a2, "download", "GavinRyderResume");
     			add_location(a2, file$4, 32, 8, 1245);
     			attr_dev(div2, "class", "container text-center");
