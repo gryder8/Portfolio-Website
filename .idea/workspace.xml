@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Add data">
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Attempt resume pdf file fix">
+      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659945337948</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fix site title">
+      <created>1659945502201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659945502201</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Attempt resume pdf file fix">
+      <created>1659945650824</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659945650824</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +162,8 @@
     <MESSAGE value="Restructure" />
     <MESSAGE value="Fix typo" />
     <MESSAGE value="Add data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add data" />
+    <MESSAGE value="Fix site title" />
+    <MESSAGE value="Attempt resume pdf file fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempt resume pdf file fix" />
   </component>
 </project>

@@ -33,7 +33,7 @@ const PROJECT_DATA = {
         {
             LABEL: "Pocket Workout Timer",
             PROJECT_URL: "https://github.com/gryder8/WorkoutTimer",
-            APP_STORE_URL: "url here",
+            APP_STORE_URL: "https://apps.apple.com/us/app/pocket-workout-timer/id1532840175",
             DESCRIPTION:
                 "Used Swift and UIKit to build an app that lets you customize and time your workout routine, with customizable sounds and UI colors.",
             URL: "images/WorkoutAppIcon.png"
@@ -55,7 +55,7 @@ const PROJECT_DATA = {
         {
             LABEL: "LAHS Bell Timer",
             PROJECT_URL: "https://github.com/gryder8/BellTimer",
-            APP_STORE_URL: "url here",
+            APP_STORE_URL: "https://apps.apple.com/us/app/lahs-bell-timer/id1460500252",
             DESCRIPTION:
                 "Back in high school, I made this app which shows a countdown to the next bell. It uses files hosted on a server and a local cache to get the latest information",
             URL: "images/BellTimerIcon.png"
