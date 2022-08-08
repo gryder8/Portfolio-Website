@@ -1,5 +1,5 @@
 
-(function(l, r) { if (!l || l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (self.location.host || 'localhost').split(':')[0] + ':35730/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(self.document);
+(function(l, r) { if (!l || l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (self.location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(self.document);
 var app = (function () {
     'use strict';
 
@@ -538,9 +538,9 @@ var app = (function () {
     			t1 = space();
     			attr_dev(a, "class", "nav-link light-color svelte-1enwtsw");
     			attr_dev(a, "href", a_href_value = /*list*/ ctx[2].url);
-    			add_location(a, file$a, 28, 24, 1023);
+    			add_location(a, file$a, 28, 24, 1028);
     			attr_dev(li, "class", "nav-item svelte-1enwtsw");
-    			add_location(li, file$a, 27, 20, 977);
+    			add_location(li, file$a, 27, 20, 982);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, li, anchor);
@@ -608,10 +608,10 @@ var app = (function () {
     			}
 
     			attr_dev(a, "class", "navbar-brand company_brand");
-    			attr_dev(a, "href", "/public");
+    			attr_dev(a, "href", "/root/public");
     			add_location(a, file$a, 11, 8, 357);
     			attr_dev(span, "class", "navbar-toggler-icon");
-    			add_location(span, file$a, 22, 12, 750);
+    			add_location(span, file$a, 22, 12, 755);
     			attr_dev(button, "class", "navbar-toggler");
     			attr_dev(button, "type", "button");
     			attr_dev(button, "data-toggle", "collapse");
@@ -619,12 +619,12 @@ var app = (function () {
     			attr_dev(button, "aria-controls", "navbarNav");
     			attr_dev(button, "aria-expanded", "false");
     			attr_dev(button, "aria-label", "Toggle navigation");
-    			add_location(button, file$a, 14, 8, 453);
+    			add_location(button, file$a, 14, 8, 458);
     			attr_dev(ul, "class", "navbar-nav ml-auto svelte-1enwtsw");
-    			add_location(ul, file$a, 25, 12, 884);
+    			add_location(ul, file$a, 25, 12, 889);
     			attr_dev(div, "class", "collapse navbar-collapse");
     			attr_dev(div, "id", "navbarNav");
-    			add_location(div, file$a, 24, 8, 818);
+    			add_location(div, file$a, 24, 8, 823);
     			attr_dev(nav, "class", "navbar main-bgcolor navbar-expand-md navbar-dark svelte-1enwtsw");
     			add_location(nav, file$a, 10, 4, 286);
     			attr_dev(section, "id", "nav-bar");
@@ -4130,7 +4130,7 @@ var app = (function () {
                     "Worked in the Applications Special Projects Group, using Swift and SwiftUI.",
                 IMAGE_URL: "images/apple-logo.png",
                 NAME: "Apple",
-                DESIGNATION: "Software Engineering Intern 55"
+                DESIGNATION: "Software Engineering Intern"
             },
             {
                 DESCRIPTION:
