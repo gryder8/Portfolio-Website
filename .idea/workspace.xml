@@ -4,42 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Moved files (attempt GH pages compatibility)">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/downloads/Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/downloads/Resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/BellTimerIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/BellTimerIcon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/MLBTS-Flips.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/MLBTS-Flips.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/WebsiteBannerImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/WebsiteBannerImage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/WordleIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/WordleIcon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/WorkoutAppIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/WorkoutAppIcon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/about-me-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/about-me-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/about-me.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/about-me.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/apple-logo-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/apple-logo-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/apple-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/apple-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/instagram-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/instagram-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/linkedin-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/linkedin-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-estate-logo.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/real-estate-logo.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/roads.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/roads.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/swing-beats-icon.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/swing-beats-icon.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/user1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/user2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/wave1.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/wave1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/wave2.png" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/images/wave2.png" afterDir="false" />
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Fix build">
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/root/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/App.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/About/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/About/About.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Banner/Banner.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/Banner/Banner.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Experience/Experience.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/Experience/Experience.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/Footer/Footer.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Navbar/Navbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/Navbar/Navbar.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Projects/Projects.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/Projects/Projects.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Social/Social.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Components/Social/Social.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/Data/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,8 +88,23 @@
       <workItem from="1659898006726" duration="6251000" />
       <workItem from="1659905066523" duration="159000" />
       <workItem from="1659905333079" duration="12745000" />
-      <workItem from="1659932956635" duration="544000" />
+      <workItem from="1659932956635" duration="860000" />
     </task>
+    <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
+      <created>1659942356351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659942356351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix build">
+      <created>1659942637469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659942637469</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Moved files (attempt GH pages compatibility)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved files (attempt GH pages compatibility)" />
+    <MESSAGE value="Fix build" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix build" />
   </component>
 </project>
