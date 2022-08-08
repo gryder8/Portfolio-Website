@@ -70,7 +70,7 @@ const EXPERIENCE_DATA = {
         {
             DESCRIPTION:
                 "Worked in the Applications Special Projects Group, using Swift and SwiftUI.",
-            IMAGE_URL: "images/apple-logo.png",
+            IMAGE_URL: "images/apple-logo.jpeg",
             NAME: "Apple",
             DESIGNATION: "Software Engineering Intern"
         },

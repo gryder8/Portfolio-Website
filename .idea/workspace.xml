@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Attempt resume pdf file fix">
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Add App Store URLs">
+      <change afterPath="$PROJECT_DIR$/public/images/apple-logo.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +90,7 @@
       <workItem from="1659905066523" duration="159000" />
       <workItem from="1659905333079" duration="12745000" />
       <workItem from="1659932956635" duration="1579000" />
+      <workItem from="1659984171011" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -138,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659945650824</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add App Store URLs">
+      <created>1659945931343</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659945931343</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +174,7 @@
     <MESSAGE value="Add data" />
     <MESSAGE value="Fix site title" />
     <MESSAGE value="Attempt resume pdf file fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempt resume pdf file fix" />
+    <MESSAGE value="Add App Store URLs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add App Store URLs" />
   </component>
 </project>
