@@ -30,7 +30,7 @@
             </div>
         </div>
 
-        <a class="btn btn-primary round-border main-bgcolor" href="/downloads/Resume.pdf" download="GavinRyderResume">My
+        <a class="btn btn-primary round-border main-bgcolor" href="./downloads/Resume.pdf" download="GavinRyderResume">My
             Resume</a>
 
     </div>
