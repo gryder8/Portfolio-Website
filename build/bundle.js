@@ -538,9 +538,9 @@ var app = (function () {
     			t1 = space();
     			attr_dev(a, "class", "nav-link light-color svelte-1enwtsw");
     			attr_dev(a, "href", a_href_value = /*list*/ ctx[2].url);
-    			add_location(a, file$a, 28, 24, 1028);
+    			add_location(a, file$a, 28, 24, 1017);
     			attr_dev(li, "class", "nav-item svelte-1enwtsw");
-    			add_location(li, file$a, 27, 20, 982);
+    			add_location(li, file$a, 27, 20, 971);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, li, anchor);
@@ -608,10 +608,10 @@ var app = (function () {
     			}
 
     			attr_dev(a, "class", "navbar-brand company_brand");
-    			attr_dev(a, "href", "/root/public");
+    			attr_dev(a, "href", "/");
     			add_location(a, file$a, 11, 8, 357);
     			attr_dev(span, "class", "navbar-toggler-icon");
-    			add_location(span, file$a, 22, 12, 755);
+    			add_location(span, file$a, 22, 12, 744);
     			attr_dev(button, "class", "navbar-toggler");
     			attr_dev(button, "type", "button");
     			attr_dev(button, "data-toggle", "collapse");
@@ -619,12 +619,12 @@ var app = (function () {
     			attr_dev(button, "aria-controls", "navbarNav");
     			attr_dev(button, "aria-expanded", "false");
     			attr_dev(button, "aria-label", "Toggle navigation");
-    			add_location(button, file$a, 14, 8, 458);
+    			add_location(button, file$a, 14, 8, 447);
     			attr_dev(ul, "class", "navbar-nav ml-auto svelte-1enwtsw");
-    			add_location(ul, file$a, 25, 12, 889);
+    			add_location(ul, file$a, 25, 12, 878);
     			attr_dev(div, "class", "collapse navbar-collapse");
     			attr_dev(div, "id", "navbarNav");
-    			add_location(div, file$a, 24, 8, 823);
+    			add_location(div, file$a, 24, 8, 812);
     			attr_dev(nav, "class", "navbar main-bgcolor navbar-expand-md navbar-dark svelte-1enwtsw");
     			add_location(nav, file$a, 10, 4, 286);
     			attr_dev(section, "id", "nav-bar");
