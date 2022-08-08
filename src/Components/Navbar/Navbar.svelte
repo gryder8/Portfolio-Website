@@ -9,7 +9,7 @@
 <!------------------------------------------->
 <section id="nav-bar">
     <nav class="navbar main-bgcolor navbar-expand-md navbar-dark">
-        <a class="navbar-brand company_brand" href="/root/public">
+        <a class="navbar-brand company_brand" href="/">
             {header}
         </a>
         <button
