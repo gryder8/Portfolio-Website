@@ -3286,7 +3286,7 @@ var app = (function () {
     			attr_dev(img, "alt", "");
     			attr_dev(img, "class", "img-fluid about-img svelte-1829rlj");
     			add_location(img, file$3, 22, 16, 795);
-    			attr_dev(div1, "class", "col-md-6");
+    			attr_dev(div1, "class", "col-sm-6");
     			add_location(div1, file$3, 21, 12, 756);
     			attr_dev(div2, "class", "row section-body");
     			add_location(div2, file$3, 12, 8, 445);
@@ -4152,7 +4152,7 @@ var app = (function () {
     const ABOUT_DATA = {
         HEADING: "About Me",
         TITLE: "A little more about me",
-        IMAGE_URL: "images/about-me-2.png", //TODO: Change
+        IMAGE_URL: "images/portrait.jpg", //TODO: Change
         ABOUT_ME_LIST: [
             "My favorite programming language is Swift, but I also know Java, C and C++!",
             "I'm from the Bay Area (born & raised)",
