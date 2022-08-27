@@ -4,7 +4,7 @@ const HEADER = "Gavin Ryder";
 const NAVBAR_DATA = [
     { id: 1, url: "/", label: "Home" },
     { id: 2, url: "#projects", label: "Projects" },
-    { id: 3, url: "#experience", label: "Experience" },
+    { id: 3, url: "#my-experience", label: "Experience" },
     { id: 4, url: "#about", label: "About Me" },
     { id: 5, url: "#footer", label: "Contact" }
 ];
@@ -69,7 +69,7 @@ const EXPERIENCE_DATA = {
     EXPERIENCE_LIST: [
         {
             DESCRIPTION:
-                "Worked in the Applications Special Projects Group, using Swift and SwiftUI.",
+                "Worked in the Applications Special Projects Group, using Swift and SwiftUI as well as some CoreData and Combine.",
             IMAGE_URL: "images/apple-logo.jpeg",
             NAME: "Apple",
             DESIGNATION: "Software Engineering Intern"

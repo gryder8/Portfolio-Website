@@ -7,7 +7,7 @@
 <!------------------------------------------->
 <!----------------MARKUP----------------------->
 <!------------------------------------------->
-<section id="about-us" class="section grey-bgcolor">
+<section id="about" class="section grey-bgcolor">
     <div class="container">
         <h2 class="title text-center">{HEADING}</h2>
         <div class="row section-body">

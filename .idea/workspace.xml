@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Add new photo and favicon&#10;Cleaned up TODOs">
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Shrink &quot;About Me&quot; image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/About/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Projects/Projects.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Projects/Projects.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +101,7 @@
       <workItem from="1659905333079" duration="12745000" />
       <workItem from="1659932956635" duration="1579000" />
       <workItem from="1659984171011" duration="1498000" />
-      <workItem from="1661629008765" duration="710000" />
+      <workItem from="1661629008765" duration="2339000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -178,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661629426902</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Shrink &quot;About Me&quot; image">
+      <created>1661629763755</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661629763755</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +218,7 @@
     <MESSAGE value="Fix 404 for top name" />
     <MESSAGE value="Add new photo and favicon" />
     <MESSAGE value="Add new photo and favicon&#10;Cleaned up TODOs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new photo and favicon&#10;Cleaned up TODOs" />
+    <MESSAGE value="Shrink &quot;About Me&quot; image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shrink &quot;About Me&quot; image" />
   </component>
 </project>

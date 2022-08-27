@@ -8,7 +8,7 @@
 <!------------------------------------------->
 <!----------------MARKUP----------------------->
 <!------------------------------------------->
-<section id="services" class="section">
+<section id="projects" class="section">
     <div class="container text-center">
         <h2 class="title">{HEADING}</h2>
         <div class="row section-body">
