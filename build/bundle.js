@@ -3061,7 +3061,7 @@ var app = (function () {
     			add_location(a2, file$4, 32, 8, 1245);
     			attr_dev(div2, "class", "container text-center");
     			add_location(div2, file$4, 11, 4, 361);
-    			attr_dev(section, "id", "services");
+    			attr_dev(section, "id", "projects");
     			attr_dev(section, "class", "section svelte-chmee7");
     			add_location(section, file$4, 10, 0, 317);
     		},
@@ -3208,7 +3208,7 @@ var app = (function () {
     			li = element("li");
     			t = text(t_value);
     			attr_dev(li, "class", "svelte-11d48sv");
-    			add_location(li, file$3, 17, 24, 659);
+    			add_location(li, file$3, 17, 24, 656);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, li, anchor);
@@ -3275,24 +3275,24 @@ var app = (function () {
     			div1 = element("div");
     			img = element("img");
     			attr_dev(h2, "class", "title text-center svelte-11d48sv");
-    			add_location(h2, file$3, 11, 8, 392);
+    			add_location(h2, file$3, 11, 8, 389);
     			attr_dev(h3, "class", "about-title svelte-11d48sv");
-    			add_location(h3, file$3, 14, 16, 527);
+    			add_location(h3, file$3, 14, 16, 524);
     			attr_dev(ul, "class", "svelte-11d48sv");
-    			add_location(ul, file$3, 15, 16, 580);
+    			add_location(ul, file$3, 15, 16, 577);
     			attr_dev(div0, "class", "col-md-6");
-    			add_location(div0, file$3, 13, 12, 488);
+    			add_location(div0, file$3, 13, 12, 485);
     			if (!src_url_equal(img.src, img_src_value = /*IMAGE_URL*/ ctx[2])) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "");
     			attr_dev(img, "class", "img-fluid about-img svelte-11d48sv");
-    			add_location(img, file$3, 22, 16, 795);
+    			add_location(img, file$3, 22, 16, 792);
     			attr_dev(div1, "class", "col-sm-6");
-    			add_location(div1, file$3, 21, 12, 756);
+    			add_location(div1, file$3, 21, 12, 753);
     			attr_dev(div2, "class", "row section-body");
-    			add_location(div2, file$3, 12, 8, 445);
+    			add_location(div2, file$3, 12, 8, 442);
     			attr_dev(div3, "class", "container");
-    			add_location(div3, file$3, 10, 4, 360);
-    			attr_dev(section, "id", "about-us");
+    			add_location(div3, file$3, 10, 4, 357);
+    			attr_dev(section, "id", "about");
     			attr_dev(section, "class", "section grey-bgcolor svelte-11d48sv");
     			add_location(section, file$3, 9, 0, 303);
     		},
@@ -4062,7 +4062,7 @@ var app = (function () {
     const NAVBAR_DATA = [
         { id: 1, url: "/", label: "Home" },
         { id: 2, url: "#projects", label: "Projects" },
-        { id: 3, url: "#experience", label: "Experience" },
+        { id: 3, url: "#my-experience", label: "Experience" },
         { id: 4, url: "#about", label: "About Me" },
         { id: 5, url: "#footer", label: "Contact" }
     ];
@@ -4127,7 +4127,7 @@ var app = (function () {
         EXPERIENCE_LIST: [
             {
                 DESCRIPTION:
-                    "Worked in the Applications Special Projects Group, using Swift and SwiftUI.",
+                    "Worked in the Applications Special Projects Group, using Swift and SwiftUI as well as some CoreData and Combine.",
                 IMAGE_URL: "images/apple-logo.jpeg",
                 NAME: "Apple",
                 DESIGNATION: "Software Engineering Intern"
