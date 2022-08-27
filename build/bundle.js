@@ -3207,7 +3207,7 @@ var app = (function () {
     		c: function create() {
     			li = element("li");
     			t = text(t_value);
-    			attr_dev(li, "class", "svelte-1829rlj");
+    			attr_dev(li, "class", "svelte-11d48sv");
     			add_location(li, file$3, 17, 24, 659);
     		},
     		m: function mount(target, anchor) {
@@ -3274,17 +3274,17 @@ var app = (function () {
     			t4 = space();
     			div1 = element("div");
     			img = element("img");
-    			attr_dev(h2, "class", "title text-center svelte-1829rlj");
+    			attr_dev(h2, "class", "title text-center svelte-11d48sv");
     			add_location(h2, file$3, 11, 8, 392);
-    			attr_dev(h3, "class", "about-title svelte-1829rlj");
+    			attr_dev(h3, "class", "about-title svelte-11d48sv");
     			add_location(h3, file$3, 14, 16, 527);
-    			attr_dev(ul, "class", "svelte-1829rlj");
+    			attr_dev(ul, "class", "svelte-11d48sv");
     			add_location(ul, file$3, 15, 16, 580);
     			attr_dev(div0, "class", "col-md-6");
     			add_location(div0, file$3, 13, 12, 488);
     			if (!src_url_equal(img.src, img_src_value = /*IMAGE_URL*/ ctx[2])) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "");
-    			attr_dev(img, "class", "img-fluid about-img svelte-1829rlj");
+    			attr_dev(img, "class", "img-fluid about-img svelte-11d48sv");
     			add_location(img, file$3, 22, 16, 795);
     			attr_dev(div1, "class", "col-sm-6");
     			add_location(div1, file$3, 21, 12, 756);
@@ -3293,7 +3293,7 @@ var app = (function () {
     			attr_dev(div3, "class", "container");
     			add_location(div3, file$3, 10, 4, 360);
     			attr_dev(section, "id", "about-us");
-    			attr_dev(section, "class", "section grey-bgcolor svelte-1829rlj");
+    			attr_dev(section, "class", "section grey-bgcolor svelte-11d48sv");
     			add_location(section, file$3, 9, 0, 303);
     		},
     		l: function claim(nodes) {
@@ -4135,14 +4135,14 @@ var app = (function () {
             {
                 DESCRIPTION:
                     "Part of a student and faculty lead startup to make dance education more accessible using IoT wearables",
-                IMAGE_URL: "images/swing-beats-icon.jpeg", //TODO: Change
+                IMAGE_URL: "images/swing-beats-icon.jpeg",
                 NAME: "Swingbeats",
                 DESIGNATION: "iOS Lead"
             },
             {
                 DESCRIPTION:
                     "Remotely managed a team of 7 interns, planning sprints and delegating development work to myself and others",
-                IMAGE_URL: "images/real-estate-logo.jpeg", //TODO: Change
+                IMAGE_URL: "images/real-estate-logo.jpeg",
                 NAME: "Real Estate Dashboard Inc.",
                 DESIGNATION: "Lead iOS Intern"
             }
@@ -4152,7 +4152,7 @@ var app = (function () {
     const ABOUT_DATA = {
         HEADING: "About Me",
         TITLE: "A little more about me",
-        IMAGE_URL: "images/portrait.jpg", //TODO: Change
+        IMAGE_URL: "images/portrait.jpg",
         ABOUT_ME_LIST: [
             "My favorite programming language is Swift, but I also know Java, C and C++!",
             "I'm from the Bay Area (born & raised)",
@@ -4167,7 +4167,7 @@ var app = (function () {
     const SOCIAL_DATA = {
         HEADING: "My Social Media",
         IMAGES_LIST: [
-            "images/github-icon.png", //TODO: Add these
+            "images/github-icon.png",
             "images/linkedin-icon.png",
         ]
     };
