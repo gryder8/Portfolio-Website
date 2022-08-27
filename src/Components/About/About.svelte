@@ -32,6 +32,8 @@
 <style>
     .about-img {
         padding-top: 40px;
+        width: 50%;
+        height: auto;
     }
     /*
     .rounded-img-box {

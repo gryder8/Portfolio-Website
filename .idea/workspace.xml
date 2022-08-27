@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Fix 404 for top name">
-      <change afterPath="$PROJECT_DIR$/public/images/portrait.jpg" afterDir="false" />
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Add new photo and favicon&#10;Cleaned up TODOs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/about-me.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/About/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +58,11 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
-    <configuration name="gh-pages.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/gh-pages.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="npm.Run Locally">
+    <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+    <configuration name="Run Locally" type="js.build_tools.npm" temporary="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
@@ -75,10 +72,14 @@
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Node.js.Deploy" />
+      <item itemvalue="npm.Run Locally" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev" />
-        <item itemvalue="Node.js.gh-pages.js" />
+        <item itemvalue="npm.Run Locally" />
+        <item itemvalue="Node.js.Deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +99,7 @@
       <workItem from="1659905333079" duration="12745000" />
       <workItem from="1659932956635" duration="1579000" />
       <workItem from="1659984171011" duration="1498000" />
-      <workItem from="1661629008765" duration="144000" />
+      <workItem from="1661629008765" duration="710000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -170,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659986454563</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add new photo and favicon&#10;Cleaned up TODOs">
+      <created>1661629426902</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661629426902</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +207,8 @@
     <MESSAGE value="Add App Store URLs" />
     <MESSAGE value="Fix Apple logo and Resume" />
     <MESSAGE value="Fix 404 for top name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix 404 for top name" />
+    <MESSAGE value="Add new photo and favicon" />
+    <MESSAGE value="Add new photo and favicon&#10;Cleaned up TODOs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new photo and favicon&#10;Cleaned up TODOs" />
   </component>
 </project>
