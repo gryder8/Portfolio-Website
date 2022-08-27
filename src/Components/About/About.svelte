@@ -19,7 +19,7 @@
                     {/each}
                 </ul>
             </div>
-            <div class="col-md-6">
+            <div class="col-sm-6">
                 <img src={IMAGE_URL} alt="" class="img-fluid about-img" />
             </div>
         </div>

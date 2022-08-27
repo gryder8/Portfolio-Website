@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Fix Apple logo and Resume">
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Fix 404 for top name">
+      <change afterPath="$PROJECT_DIR$/public/images/portrait.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Navbar/Navbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navbar/Navbar.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/about-me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,7 @@
   "keyToString": {
     "Project.color": "352a3c",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/gavin/Documents/Development/personal_website/public/downloads",
+    "last_opened_file_path": "/Users/gavin/Documents/Development/personal_website/public/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,8 +49,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/downloads" />
       <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/downloads" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -93,7 +97,8 @@
       <workItem from="1659905066523" duration="159000" />
       <workItem from="1659905333079" duration="12745000" />
       <workItem from="1659932956635" duration="1579000" />
-      <workItem from="1659984171011" duration="786000" />
+      <workItem from="1659984171011" duration="1498000" />
+      <workItem from="1661629008765" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -158,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659984308528</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fix 404 for top name">
+      <created>1659986454563</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659986454563</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +198,7 @@
     <MESSAGE value="Attempt resume pdf file fix" />
     <MESSAGE value="Add App Store URLs" />
     <MESSAGE value="Fix Apple logo and Resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Apple logo and Resume" />
+    <MESSAGE value="Fix 404 for top name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix 404 for top name" />
   </component>
 </project>

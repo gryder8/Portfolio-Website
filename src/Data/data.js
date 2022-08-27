@@ -77,14 +77,14 @@ const EXPERIENCE_DATA = {
         {
             DESCRIPTION:
                 "Part of a student and faculty lead startup to make dance education more accessible using IoT wearables",
-            IMAGE_URL: "images/swing-beats-icon.jpeg", //TODO: Change
+            IMAGE_URL: "images/swing-beats-icon.jpeg",
             NAME: "Swingbeats",
             DESIGNATION: "iOS Lead"
         },
         {
             DESCRIPTION:
                 "Remotely managed a team of 7 interns, planning sprints and delegating development work to myself and others",
-            IMAGE_URL: "images/real-estate-logo.jpeg", //TODO: Change
+            IMAGE_URL: "images/real-estate-logo.jpeg",
             NAME: "Real Estate Dashboard Inc.",
             DESIGNATION: "Lead iOS Intern"
         }
@@ -94,7 +94,7 @@ const EXPERIENCE_DATA = {
 const ABOUT_DATA = {
     HEADING: "About Me",
     TITLE: "A little more about me",
-    IMAGE_URL: "images/about-me-2.png", //TODO: Change
+    IMAGE_URL: "images/portrait.jpg",
     ABOUT_ME_LIST: [
         "My favorite programming language is Swift, but I also know Java, C and C++!",
         "I'm from the Bay Area (born & raised)",
@@ -109,7 +109,7 @@ const ABOUT_DATA = {
 const SOCIAL_DATA = {
     HEADING: "My Social Media",
     IMAGES_LIST: [
-        "images/github-icon.png", //TODO: Add these
+        "images/github-icon.png",
         "images/linkedin-icon.png",
     ]
 };
