@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Shrink &quot;About Me&quot; image">
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Fix nav-bar issues">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/About/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Projects/Projects.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Projects/Projects.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Project.color": "352a3c",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/gavin/Documents/Development/personal_website/public/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;352a3c&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gavin/Documents/Development/personal_website/public/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTCustomThemeConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/images" />
@@ -60,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Run Locally">
+  <component name="RunManager" selected="Node.js.Deploy">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -80,8 +77,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.Run Locally" />
         <item itemvalue="Node.js.Deploy" />
+        <item itemvalue="npm.Run Locally" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +98,11 @@
       <workItem from="1659905333079" duration="12745000" />
       <workItem from="1659932956635" duration="1579000" />
       <workItem from="1659984171011" duration="1498000" />
-      <workItem from="1661629008765" duration="2339000" />
+      <workItem from="1661629008765" duration="3017000" />
+      <workItem from="1666467515399" duration="70000" />
+      <workItem from="1666467597869" duration="44000" />
+      <workItem from="1666469304418" duration="166000" />
+      <workItem from="1666651406511" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -187,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661629763755</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fix nav-bar issues">
+      <created>1661631439307</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661631439307</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +227,7 @@
     <MESSAGE value="Add new photo and favicon" />
     <MESSAGE value="Add new photo and favicon&#10;Cleaned up TODOs" />
     <MESSAGE value="Shrink &quot;About Me&quot; image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shrink &quot;About Me&quot; image" />
+    <MESSAGE value="Fix nav-bar issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix nav-bar issues" />
   </component>
 </project>
