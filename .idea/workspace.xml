@@ -58,7 +58,7 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Deploy">
+  <component name="RunManager" selected="npm.Run Locally">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -78,8 +78,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Deploy" />
         <item itemvalue="npm.Run Locally" />
+        <item itemvalue="Node.js.Deploy" />
       </list>
     </recent_temporary>
   </component>

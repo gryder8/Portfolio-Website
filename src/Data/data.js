@@ -124,7 +124,7 @@ const FOOTER_DATA = {
     }
 };
 
-const MOCK_DATA = {
+const ALL_DATA = {
     HEADER,
     NAVBAR_DATA,
     BANNER_DATA,
@@ -134,4 +134,4 @@ const MOCK_DATA = {
     SOCIAL_DATA,
     FOOTER_DATA
 };
-export default MOCK_DATA;
+export default ALL_DATA;
