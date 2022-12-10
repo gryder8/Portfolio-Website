@@ -4069,7 +4069,7 @@ var app = (function () {
     const BANNER_DATA = {
         HEADING: "Hey there, I'm Gavin 👋",
         DESCRIPTION:
-            "CSE Student @ SCU, Apple Intern (Summer 2022), iOS Developer",
+            "CSE Student @ SCU, SWE Intern @ Apple, iOS Developer",
         GITHUB_URL:
             "https://github.com/gryder8",
         VISIT_GITHUB: "GitHub",
