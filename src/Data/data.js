@@ -27,7 +27,7 @@ const PROJECT_DATA = {
             PROJECT_URL: "https://github.com/gryder8/SCU-Food-Reviews",
             APP_STORE_URL: "",
             DESCRIPTION:
-                "Using Swift and SwiftUI, I made an iOS App that interfaces with SAM CLI and supports Google Sign-In to allow SCU students to rate food offered on campus.",
+                "Using Swift and SwiftUI, I made an iOS App that interfaces with an AWS SAM backend and supports Google Sign-In to allow SCU students to rate food offered on campus.",
             URL: "images/foodreviewsicon.png"
         },
         {
