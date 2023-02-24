@@ -23,6 +23,14 @@ const PROJECT_DATA = {
     ALL_PROJECTS: "All Experience",
     PROJECT_LIST: [
         {
+            LABEL: "SCU Food Reviews",
+            PROJECT_URL: "https://github.com/gryder8/SCU-Food-Reviews",
+            APP_STORE_URL: "",
+            DESCRIPTION:
+                "Using Swift and SwiftUI, I made an iOS App that interfaces with SAM CLI and supports Google Sign-In to allow SCU students to rate food offered on campus.",
+            URL: "images/foodreviewsicon.png"
+        },
+        {
             LABEL: "MLB The Show Flips",
             PROJECT_URL: "https://github.com/gryder8/MLB-The-Show-Flips-App",
             APP_STORE_URL: "",
