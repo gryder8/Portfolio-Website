@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gh-pages.js" beforeDir="false" afterPath="$PROJECT_DIR$/gh-pages.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +74,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Deploy" />
         <item itemvalue="npm.Run Locally" />
+        <item itemvalue="Node.js.Deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +105,7 @@
       <workItem from="1670661607165" duration="22000" />
       <workItem from="1670661639396" duration="29000" />
       <workItem from="1670661679804" duration="601000" />
-      <workItem from="1677195460206" duration="2364000" />
+      <workItem from="1677195460206" duration="2783000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -241,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677198248596</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Fix repo url for pages deployment script">
+      <created>1677198831206</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1677198831206</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +286,7 @@
     <MESSAGE value="variable name fix" />
     <MESSAGE value="Update resume, add Food Reviews app to projects" />
     <MESSAGE value="Fix food review project desc text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix food review project desc text" />
+    <MESSAGE value="Fix repo url for pages deployment script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix repo url for pages deployment script" />
   </component>
 </project>
