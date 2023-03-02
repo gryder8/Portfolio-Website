@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Run Locally">
+  <component name="RunManager" selected="Node.js.Deploy">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -75,8 +74,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.Run Locally" />
         <item itemvalue="Node.js.Deploy" />
+        <item itemvalue="npm.Run Locally" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +106,7 @@
       <workItem from="1670661639396" duration="29000" />
       <workItem from="1670661679804" duration="601000" />
       <workItem from="1677195460206" duration="3425000" />
-      <workItem from="1677724795717" duration="119000" />
+      <workItem from="1677724795717" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -256,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677199233478</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add App Store URL for Food Reviews">
+      <created>1677725003430</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677725003430</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,6 +303,7 @@
     <MESSAGE value="Fix food review project desc text" />
     <MESSAGE value="Fix repo url for pages deployment script" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Add App Store URL for Food Reviews" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add App Store URL for Food Reviews" />
   </component>
 </project>
