@@ -4107,7 +4107,7 @@ var app = (function () {
             "I'm from the Bay Area (born & raised)",
             "I started coding when I was about 13",
             "In my free time, I like to exercise, hang out with friends, listen to music, or play video games",
-            "I also love to ski and watch baseball",
+            "I also love to ski and watch baseball and Formula 1",
 
         ]
     };
