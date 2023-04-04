@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +109,7 @@
       <workItem from="1677195460206" duration="3425000" />
       <workItem from="1677724795717" duration="1794000" />
       <workItem from="1680590664066" duration="40000" />
+      <workItem from="1680590714892" duration="125000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -271,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677725564320</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update About Me">
+      <created>1680590769511</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1680590769511</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +297,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Moved files (attempt GH pages compatibility)" />
     <MESSAGE value="Fix build" />
     <MESSAGE value="Another change for pages" />
     <MESSAGE value="Restructure" />
@@ -314,6 +321,7 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Add App Store URL for Food Reviews" />
     <MESSAGE value="Fix Resume.pdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Resume.pdf" />
+    <MESSAGE value="Update About Me" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update About Me" />
   </component>
 </project>
