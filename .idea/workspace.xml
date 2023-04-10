@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +110,8 @@
       <workItem from="1677195460206" duration="3425000" />
       <workItem from="1677724795717" duration="1794000" />
       <workItem from="1680590664066" duration="40000" />
-      <workItem from="1680590714892" duration="125000" />
+      <workItem from="1680590714892" duration="560000" />
+      <workItem from="1681167404669" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -279,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680590769511</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="push update">
+      <created>1680590927992</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1680590927992</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +306,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix build" />
     <MESSAGE value="Another change for pages" />
     <MESSAGE value="Restructure" />
     <MESSAGE value="Fix typo" />
@@ -322,6 +330,7 @@
     <MESSAGE value="Add App Store URL for Food Reviews" />
     <MESSAGE value="Fix Resume.pdf" />
     <MESSAGE value="Update About Me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update About Me" />
+    <MESSAGE value="push update" />
+    <option name="LAST_COMMIT_MESSAGE" value="push update" />
   </component>
 </project>

@@ -105,7 +105,7 @@ const ABOUT_DATA = {
     IMAGE_URL: "images/portrait.jpg",
     ABOUT_ME_LIST: [
         "My favorite programming language is Swift, but I also know Java, C and C++!",
-        "I'm from the Bay Area (born & raised)",
+        "I'm from the Bay Area (Mountain View)",
         "I started coding when I was about 13",
         "In my free time, I like to exercise, hang out with friends, listen to music, or play video games",
         "I also love to ski and watch baseball and Formula 1",
@@ -127,7 +127,7 @@ const FOOTER_DATA = {
         "If you're interested in working with me or reaching out to me about an opportunity you can reach me here:",
     CONTACT_DETAILS: {
         HEADING: "Contact Me",
-        MOBILE: "+1 650-417-5625",
+        MOBILE: "+1 (650)-417-5625",
         EMAIL: "gavin.ryder82@icloud.com"
     }
 };
