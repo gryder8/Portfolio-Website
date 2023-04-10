@@ -55,8 +55,18 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Run Locally">
+  <component name="RunManager" selected="npm.Build">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Build" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="Run Locally" type="js.build_tools.npm" temporary="true">
@@ -71,12 +81,13 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.Deploy" />
+      <item itemvalue="npm.Build" />
       <item itemvalue="npm.Run Locally" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.Run Locally" />
         <item itemvalue="Node.js.Deploy" />
+        <item itemvalue="npm.Run Locally" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +121,7 @@
       <workItem from="1677724795717" duration="1794000" />
       <workItem from="1680590664066" duration="40000" />
       <workItem from="1680590714892" duration="560000" />
-      <workItem from="1681167404669" duration="1677000" />
+      <workItem from="1681167404669" duration="2621000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -308,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681168660079</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="New color scheme!">
+      <created>1681169786012</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1681169786012</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +344,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix typo" />
     <MESSAGE value="Add data" />
     <MESSAGE value="Fix site title" />
     <MESSAGE value="Attempt resume pdf file fix" />
@@ -351,6 +368,7 @@
     <MESSAGE value="Update About Me" />
     <MESSAGE value="Push update" />
     <MESSAGE value="New favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="New favicon" />
+    <MESSAGE value="New color scheme!" />
+    <option name="LAST_COMMIT_MESSAGE" value="New color scheme!" />
   </component>
 </project>
