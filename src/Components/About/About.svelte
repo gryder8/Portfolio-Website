@@ -51,7 +51,7 @@
 
     .title::before {
         content: "";
-        background: linear-gradient(90deg, #0072ff 0%, #00d4ff 100%);
+        background: linear-gradient(90deg, #7a96ab 0%, #cacaca 100%);
         height: 5px;
         width: 180px;
         margin-left: auto;
