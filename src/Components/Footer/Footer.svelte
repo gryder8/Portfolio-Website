@@ -19,7 +19,7 @@
         <div class="row section-body">
             <div class="col-md-4 footer-box">
                 <div class="company_brand">{header}</div>
-                <p>{DESCRIPTION}</p>
+<!--                <p>{DESCRIPTION}</p>-->
             </div>
             <div class="col-md-4 footer-box">
                 <p class="footer-title">{HEADING}</p>
