@@ -23,11 +23,6 @@
             </div>
             <div class="col-md-4 footer-box">
                 <p class="footer-title">{HEADING}</p>
-
-                <p>
-                    <i class="fas fa-phone"></i>
-                    {MOBILE}
-                </p>
                 <p>
                     <i class="fas fa-envelope"></i>
                     {EMAIL}

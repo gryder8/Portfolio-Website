@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Experience/Experience.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Experience/Experience.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +124,7 @@
       <workItem from="1680590664066" duration="40000" />
       <workItem from="1680590714892" duration="560000" />
       <workItem from="1681167404669" duration="3256000" />
-      <workItem from="1681183029665" duration="134000" />
+      <workItem from="1681183029665" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -336,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681170547422</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Fixed navbar issue when clicking &quot;Experience&quot;">
+      <created>1681183199089</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1681183199089</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,7 +361,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix site title" />
     <MESSAGE value="Attempt resume pdf file fix" />
     <MESSAGE value="Add App Store URLs" />
     <MESSAGE value="Fix Apple logo and Resume" />
@@ -379,6 +385,7 @@
     <MESSAGE value="New favicon" />
     <MESSAGE value="New color scheme!" />
     <MESSAGE value="Add `npm run build` shortcut&#10;Loading problem seems to be fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add `npm run build` shortcut&#10;Loading problem seems to be fixed" />
+    <MESSAGE value="Fixed navbar issue when clicking &quot;Experience&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed navbar issue when clicking &quot;Experience&quot;" />
   </component>
 </project>

@@ -127,8 +127,7 @@ const FOOTER_DATA = {
         "If you're interested in working with me or reaching out to me about an opportunity you can reach me here:",
     CONTACT_DETAILS: {
         HEADING: "Contact Me",
-        MOBILE: "+1 (650)-417-5625",
-        EMAIL: "gavin.ryder82@icloud.com"
+        EMAIL: "gavin.ryder.dev@icloud.com"
     }
 };
 
