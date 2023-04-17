@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +122,7 @@
       <workItem from="1680590664066" duration="40000" />
       <workItem from="1680590714892" duration="560000" />
       <workItem from="1681167404669" duration="3256000" />
-      <workItem from="1681183029665" duration="710000" />
+      <workItem from="1681183029665" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -349,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681237513309</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Remove description text from Footer.svelte">
+      <created>1681237935770</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1681237935770</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +373,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add App Store URLs" />
     <MESSAGE value="Fix Apple logo and Resume" />
     <MESSAGE value="Fix 404 for top name" />
     <MESSAGE value="Add new photo and favicon" />
@@ -392,6 +397,7 @@
     <MESSAGE value="Add `npm run build` shortcut&#10;Loading problem seems to be fixed" />
     <MESSAGE value="Fixed navbar issue when clicking &quot;Experience&quot;" />
     <MESSAGE value="Update Contact Info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Contact Info" />
+    <MESSAGE value="Remove description text from Footer.svelte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove description text from Footer.svelte" />
   </component>
 </project>
