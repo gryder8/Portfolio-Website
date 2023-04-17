@@ -56,7 +56,7 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Build">
+  <component name="RunManager" selected="Node.js.Deploy">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>

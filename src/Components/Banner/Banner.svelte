@@ -10,7 +10,7 @@
 <!------------------------------------------->
 <!----------------MARKUP----------------------->
 <!------------------------------------------->
-<section class="main-bgcolor light-color" id="banner">
+<section class="main-bgcolor light-color" id="">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
