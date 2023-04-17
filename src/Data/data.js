@@ -2,7 +2,7 @@
 const HEADER = "Gavin Ryder";
 
 const NAVBAR_DATA = [
-    { id: 1, url: "/", label: "Home" },
+    { id: 1, url: "#banner", label: "Home" },
     { id: 2, url: "#projects", label: "Projects" },
     { id: 3, url: "#work-experience", label: "Experience" },
     { id: 4, url: "#about", label: "About Me" },
