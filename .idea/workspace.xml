@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Deploy">
+  <component name="RunManager" selected="npm.Build">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -87,8 +86,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.Run Locally" />
         <item itemvalue="Node.js.Deploy" />
+        <item itemvalue="npm.Run Locally" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +123,7 @@
       <workItem from="1680590714892" duration="560000" />
       <workItem from="1681167404669" duration="3256000" />
       <workItem from="1681183029665" duration="1401000" />
-      <workItem from="1681770837409" duration="576000" />
+      <workItem from="1681770837409" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -364,7 +363,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681771048563</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Update About Me">
+      <created>1681771725669</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1681771725669</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Update scroll to top behavior">
+      <created>1681771990561</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1681771990561</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +395,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix Apple logo and Resume" />
     <MESSAGE value="Fix 404 for top name" />
     <MESSAGE value="Add new photo and favicon" />
     <MESSAGE value="Add new photo and favicon&#10;Cleaned up TODOs" />
@@ -407,6 +419,7 @@
     <MESSAGE value="Update Contact Info" />
     <MESSAGE value="Remove description text from Footer.svelte" />
     <MESSAGE value="Update About Me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update About Me" />
+    <MESSAGE value="Update scroll to top behavior" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update scroll to top behavior" />
   </component>
 </project>
