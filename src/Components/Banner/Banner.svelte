@@ -17,12 +17,12 @@
                 <h1>{HEADING}</h1>
                 <p>{DESCRIPTION}</p>
                 <Icon data={githubSquare} scale="1.5"/>
-                <a href={GITHUB_URL} target="_blank" class="icon-label">
+                <a href={GITHUB_URL} target="_blank" rel="noreferrer" class="icon-label">
                     {VISIT_GITHUB}
                 </a>
                 <br>
                 <Icon data={linkedInSquare} scale="1.5"/>
-                <a href={LINKEDIN_URL} target="_blank" class="icon-label">
+                <a href={LINKEDIN_URL} target="_blank" rel="noreferrer" class="icon-label">
                     {VISIT_LINKEDIN}
                 </a>
             </div>

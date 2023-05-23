@@ -40,10 +40,6 @@
         text-transform: uppercase;
     }
 
-    .footer-box button {
-        margin-top: 30px;
-    }
-
     /*
     .round-border {
         border-radius: 20px !important;

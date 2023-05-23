@@ -13,8 +13,9 @@
         <div class="social-icons section-body">
             {#each IMAGES_LIST as list}
                 <a
-                        href="https://www.linkedin.com/in/gavin-r-5a3900190/"
-                        target="_blank">
+                        href="https://www.linkedin.com/in/gavin-ryder/"
+                        target="_blank"
+                        rel="noreferrer">
                     <img src={list} alt="Social media {list}" />
                 </a>
             {/each}

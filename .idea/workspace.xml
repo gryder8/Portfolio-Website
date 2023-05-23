@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Banner/Banner.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Banner/Banner.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Projects/Projects.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Projects/Projects.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Social/Social.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Social/Social.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +91,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Deploy" />
         <item itemvalue="npm.Run Locally" />
+        <item itemvalue="Node.js.Deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +129,8 @@
       <workItem from="1681167404669" duration="3256000" />
       <workItem from="1681183029665" duration="1401000" />
       <workItem from="1681770837409" duration="1156000" />
+      <workItem from="1684800743878" duration="218000" />
+      <workItem from="1684876125575" duration="523000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -377,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681771990561</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Fixed some job descriptions">
+      <created>1684800837147</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1684800837148</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix 404 for top name" />
     <MESSAGE value="Add new photo and favicon" />
     <MESSAGE value="Add new photo and favicon&#10;Cleaned up TODOs" />
     <MESSAGE value="Shrink &quot;About Me&quot; image" />
@@ -420,6 +433,7 @@
     <MESSAGE value="Remove description text from Footer.svelte" />
     <MESSAGE value="Update About Me" />
     <MESSAGE value="Update scroll to top behavior" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update scroll to top behavior" />
+    <MESSAGE value="Fixed some job descriptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some job descriptions" />
   </component>
 </project>

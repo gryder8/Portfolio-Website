@@ -15,7 +15,7 @@ const BANNER_DATA = {
     GITHUB_URL:
         "https://github.com/gryder8",
     VISIT_GITHUB: "GitHub",
-    LINKEDIN_URL: "https://www.linkedin.com/in/gavin-r-5a3900190/",
+    LINKEDIN_URL: "https://www.linkedin.com/in/gavin-ryder/",
     VISIT_LINKEDIN: "LinkedIn"
 };
 const PROJECT_DATA = {

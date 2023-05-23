@@ -26,7 +26,7 @@
                 </div>
             {/each}
             <div>
-                <a class="note note-leading">Note:</a> <a class="note note-trailing"> {NOTE}</a>
+                <a href="#0" class="note note-leading">Note:</a> <a href="#0" class="note note-trailing"> {NOTE}</a>
             </div>
         </div>
 
