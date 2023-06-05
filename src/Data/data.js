@@ -77,7 +77,7 @@ const EXPERIENCE_DATA = {
     EXPERIENCE_LIST: [
         {
             DESCRIPTION:
-                "Worked in the Applications Special Projects Group, using Swift and SwiftUI as well as some CoreData and Combine.",
+                "Worked in the Applications Special Projects Group on Journal, using Swift and SwiftUI as well as some CoreData and Combine.",
             IMAGE_URL: "images/apple-logo.jpeg",
             NAME: "Apple",
             DESIGNATION: "Software Engineering Intern"
