@@ -20,7 +20,8 @@ body {
 .grey-bgcolor {
 	background: var(--grey);
 }
-.company_brand {
+.dark-name {
+	color: rgb(122, 150, 171);
 	font-size: x-large;
 	font-family: monospace;
 }
