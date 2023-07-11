@@ -77,6 +77,13 @@ const EXPERIENCE_DATA = {
     EXPERIENCE_LIST: [
         {
             DESCRIPTION:
+                "Worked in the Applications Special Projects Group on Journal. Used Swift, UIKit, and some CoreData. Also contributed bug fixes and small features and worked on an exploratory project.",
+            IMAGE_URL: "images/apple-logo.jpeg",
+            NAME: "Apple",
+            DESIGNATION: "Software Engineering Intern"
+        },
+        {
+            DESCRIPTION:
                 "Worked in the Applications Special Projects Group on Journal, using Swift and SwiftUI as well as some CoreData and Combine.",
             IMAGE_URL: "images/apple-logo.jpeg",
             NAME: "Apple",
@@ -114,14 +121,6 @@ const ABOUT_DATA = {
 };
 
 
-const SOCIAL_DATA = {
-    HEADING: "My Social Media",
-    IMAGES_LIST: [
-        "images/github-icon.png",
-        "images/linkedin-icon.png",
-    ]
-};
-
 const FOOTER_DATA = {
     DESCRIPTION:
         "If you're interested in working with me or reaching out to me about an opportunity you can reach me here:",
@@ -138,7 +137,6 @@ const ALL_DATA = {
     PROJECT_DATA,
     ABOUT_DATA,
     EXPERIENCE_DATA,
-    SOCIAL_DATA,
     FOOTER_DATA
 };
 export default ALL_DATA;

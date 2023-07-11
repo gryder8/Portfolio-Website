@@ -6,6 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/about-me-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/apple-logo-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/apple-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/instagram-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portrait.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/portrait.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/user1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/user2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Navbar/Navbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navbar/Navbar.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,26 +38,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Project.color&quot;: &quot;352a3c&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gavin/Documents/Development/personal_website/public/downloads&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "352a3c",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/gavin/Documents/Development/personal_website/public/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/public/downloads" />
       <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/public/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -86,8 +98,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Deploy" />
         <item itemvalue="npm.Run Locally" />
+        <item itemvalue="Node.js.Deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +139,7 @@
       <workItem from="1684800743878" duration="218000" />
       <workItem from="1684876125575" duration="808000" />
       <workItem from="1685993516315" duration="989000" />
+      <workItem from="1689015226545" duration="2296000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -401,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685993963450</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Update resume">
+      <created>1689015272690</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1689015272690</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Shrink &quot;About Me&quot; image" />
     <MESSAGE value="Fix nav-bar issues" />
     <MESSAGE value="New resume" />
     <MESSAGE value="Updated header" />
@@ -444,6 +463,7 @@
     <MESSAGE value="Fixed some job descriptions" />
     <MESSAGE value="Fix build warnings&#10;Update LinkedIN URLs" />
     <MESSAGE value="New resume and Apple experience description for the announcement of the Journal app" />
-    <option name="LAST_COMMIT_MESSAGE" value="New resume and Apple experience description for the announcement of the Journal app" />
+    <MESSAGE value="Update resume" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update resume" />
   </component>
 </project>

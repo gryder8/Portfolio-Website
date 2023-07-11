@@ -4,10 +4,9 @@
     export let footerData = {};
     export let header = "";
     const {
-        DESCRIPTION,
         CONTACT_DETAILS
     } = footerData;
-    const { HEADING, MOBILE, EMAIL } = CONTACT_DETAILS;
+    const { HEADING, EMAIL } = CONTACT_DETAILS;
 </script>
 
 <!------------------------------------------->
@@ -18,15 +17,17 @@
     <div class="container">
         <div class="row section-body">
             <div class="col-md-4 footer-box">
-                <div class="company_brand">{header}</div>
+                <div class="dark-name">{header}</div>
 <!--                <p>{DESCRIPTION}</p>-->
             </div>
             <div class="col-md-4 footer-box">
                 <p class="footer-title">{HEADING}</p>
+                <a href="mailto:gavin.ryder.dev@icloud.com">
                 <p>
                     <i class="fas fa-envelope"></i>
                     {EMAIL}
                 </p>
+                </a>
             </div>
         </div>
     </div>
@@ -36,9 +37,11 @@
 <!------------------------------------------->
 <style>
     .footer-title {
+        /*color: rgb(122, 150, 171);*/
         font-weight: bold;
         text-transform: uppercase;
     }
+
 
     /*
     .round-border {
