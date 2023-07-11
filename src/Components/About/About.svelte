@@ -66,6 +66,7 @@
 
     section ul li {
         margin: 10px 0;
+        list-style-type: circle;
     }
 
     section ul {

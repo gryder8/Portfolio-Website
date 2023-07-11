@@ -6,17 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/about-me-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/apple-logo-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/apple-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/instagram-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portrait.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/portrait.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Navbar/Navbar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navbar/Navbar.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gh-pages.js" beforeDir="false" afterPath="$PROJECT_DIR$/gh-pages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/About/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +58,7 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Build">
+  <component name="RunManager" selected="Node.js.Deploy">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -139,7 +130,7 @@
       <workItem from="1684800743878" duration="218000" />
       <workItem from="1684876125575" duration="808000" />
       <workItem from="1685993516315" duration="989000" />
-      <workItem from="1689015226545" duration="2296000" />
+      <workItem from="1689015226545" duration="3003000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -421,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689015272690</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Cleaned up code&#10;Removed unused images&#10;Updated portrait">
+      <created>1689060446035</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1689060446035</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,7 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix nav-bar issues" />
     <MESSAGE value="New resume" />
     <MESSAGE value="Updated header" />
     <MESSAGE value="Update dependencies" />
@@ -464,6 +461,7 @@
     <MESSAGE value="Fix build warnings&#10;Update LinkedIN URLs" />
     <MESSAGE value="New resume and Apple experience description for the announcement of the Journal app" />
     <MESSAGE value="Update resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update resume" />
+    <MESSAGE value="Cleaned up code&#10;Removed unused images&#10;Updated portrait" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up code&#10;Removed unused images&#10;Updated portrait" />
   </component>
 </project>
