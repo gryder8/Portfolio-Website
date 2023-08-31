@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Update 2023 internship desc">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Build">
+  <component name="RunManager" selected="Node.js.Deploy">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -133,7 +133,7 @@
       <workItem from="1684876125575" duration="808000" />
       <workItem from="1685993516315" duration="989000" />
       <workItem from="1689015226545" duration="3461000" />
-      <workItem from="1693466257744" duration="360000" />
+      <workItem from="1693466257744" duration="746000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -437,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693466442443</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Update 2023 internship desc">
+      <option name="closed" value="true" />
+      <created>1693466653676</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1693466653676</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +463,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update dependencies" />
     <MESSAGE value="variable name fix" />
     <MESSAGE value="Update resume, add Food Reviews app to projects" />
     <MESSAGE value="Fix food review project desc text" />
@@ -480,6 +487,7 @@
     <MESSAGE value="Cleaned up code&#10;Removed unused images&#10;Updated portrait" />
     <MESSAGE value="Updated About Me and styling" />
     <MESSAGE value="Update Resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Resume" />
+    <MESSAGE value="Update 2023 internship desc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2023 internship desc" />
   </component>
 </project>
