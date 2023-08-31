@@ -77,7 +77,7 @@ const EXPERIENCE_DATA = {
     EXPERIENCE_LIST: [
         {
             DESCRIPTION:
-                "Worked in the Applications Special Projects Group on Journal. Used Swift, UIKit, and some CoreData. Also contributed bug fixes and small features and worked on an exploratory project.",
+                "Worked in the Applications Special Projects Group on Journal. Used Swift, UIKit, and some CoreData. Also contributed numerous bug fixes and small features into production and worked on an exploratory project.",
             IMAGE_URL: "images/apple-logo.jpeg",
             NAME: "Apple",
             DESIGNATION: "Software Engineering Intern"
