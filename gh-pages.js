@@ -14,5 +14,5 @@ ghpages.publish(
         console.log('Deploy Complete!')
     }
 ).then(() => {
-    console.log("Website publishing on GH-Pages!")
+    console.log("Website published!")
 })
