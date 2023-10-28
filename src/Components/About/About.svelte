@@ -31,7 +31,7 @@
 <!------------------------------------------->
 <style>
     .about-img {
-        padding-top: 40px;
+        border-radius: 50px;
         width: 50%;
         height: auto;
     }

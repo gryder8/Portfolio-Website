@@ -11,7 +11,7 @@ const NAVBAR_DATA = [
 const BANNER_DATA = {
     HEADING: "Hey there, I'm Gavin 👋",
     DESCRIPTION:
-        "CSE Student @ SCU, SWE Intern @ Apple, iOS Developer",
+        "CSE Student @ SCU, Assistant iOS Engineer @ Quizlet, Former Intern @ Apple",
     GITHUB_URL:
         "https://github.com/gryder8",
     VISIT_GITHUB: "GitHub",
@@ -77,6 +77,13 @@ const EXPERIENCE_DATA = {
     EXPERIENCE_LIST: [
         {
             DESCRIPTION:
+                "Working as an iOS Assistant, contributing small bug fixes and improvements and unit tests to back them and prevent regressions. Using UIKit, Swift and XCTest.",
+            IMAGE_URL: "images/quizlet-logo.jpeg",
+            NAME: "Quizlet",
+            DESIGNATION: "Assistant iOS Engineer"
+        },
+        {
+            DESCRIPTION:
                 "Worked in the Applications Special Projects Group on Journal. Used Swift, UIKit, and some CoreData. Also contributed numerous bug fixes and small features into production and worked on an exploratory project.",
             IMAGE_URL: "images/apple-logo.jpeg",
             NAME: "Apple",
@@ -109,7 +116,7 @@ const EXPERIENCE_DATA = {
 const ABOUT_DATA = {
     HEADING: "About Me",
     TITLE: "A little more about me",
-    IMAGE_URL: "images/portrait.jpg",
+    IMAGE_URL: "images/portrait.png",
     ABOUT_ME_LIST: [
         "🧑🏻‍💻 My favorite programming language is Swift, but I also know Java and some C++!",
         "🌉 I'm from the SF Bay Area",
