@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Add .gitignore">
-      <change afterPath="$PROJECT_DIR$/public/images/portrait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/quizlet-logo.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portrait.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/About/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +48,7 @@
     "Project.color": "352a3c",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/gavin/Documents/Development/personal_website/public/images",
+    "last_opened_file_path": "/Users/gavin/Documents/Development/personal_website/public/downloads",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,8 +61,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/public/downloads" />
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -79,7 +73,7 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Run Locally">
+  <component name="RunManager" selected="npm.Build">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -110,8 +104,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.Run Locally" />
         <item itemvalue="Node.js.Deploy" />
+        <item itemvalue="npm.Run Locally" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +147,7 @@
       <workItem from="1685993516315" duration="989000" />
       <workItem from="1689015226545" duration="3461000" />
       <workItem from="1693466257744" duration="954000" />
-      <workItem from="1698475619156" duration="1235000" />
+      <workItem from="1698475619156" duration="1541000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -473,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693467040385</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Update resume, experience and portrait">
+      <option name="closed" value="true" />
+      <created>1698477043579</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1698477043579</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update resume, add Food Reviews app to projects" />
     <MESSAGE value="Fix food review project desc text" />
     <MESSAGE value="Fix repo url for pages deployment script" />
     <MESSAGE value="Test" />
@@ -516,6 +517,7 @@
     <MESSAGE value="Update Resume" />
     <MESSAGE value="Update 2023 internship desc" />
     <MESSAGE value="Add .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add .gitignore" />
+    <MESSAGE value="Update resume, experience and portrait" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update resume, experience and portrait" />
   </component>
 </project>
