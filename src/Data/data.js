@@ -77,7 +77,7 @@ const EXPERIENCE_DATA = {
     EXPERIENCE_LIST: [
         {
             DESCRIPTION:
-                "Working as an iOS Assistant, contributing small bug fixes and improvements and unit tests to back them and prevent regressions. Using UIKit, Swift and XCTest.",
+                "Working as an iOS Assistant, contributing small bug fixes and improvements, with unit tests to back them and prevent regressions. Using UIKit, Swift and XCTest.",
             IMAGE_URL: "images/quizlet-logo.jpeg",
             NAME: "Quizlet",
             DESIGNATION: "Assistant iOS Engineer"
