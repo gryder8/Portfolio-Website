@@ -149,7 +149,7 @@
       <workItem from="1689015226545" duration="3461000" />
       <workItem from="1693466257744" duration="954000" />
       <workItem from="1698475619156" duration="2384000" />
-      <workItem from="1701148412786" duration="134000" />
+      <workItem from="1701148412786" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -485,7 +485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698477419169</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Improve Quizlet description">
+      <option name="closed" value="true" />
+      <created>1701148614504</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1701148614504</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +511,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix repo url for pages deployment script" />
     <MESSAGE value="Test" />
     <MESSAGE value="Add App Store URL for Food Reviews" />
     <MESSAGE value="Fix Resume.pdf" />
@@ -528,6 +535,7 @@
     <MESSAGE value="Add .gitignore" />
     <MESSAGE value="Update resume, experience and portrait" />
     <MESSAGE value="Update dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update dependencies" />
+    <MESSAGE value="Improve Quizlet description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improve Quizlet description" />
   </component>
 </project>
