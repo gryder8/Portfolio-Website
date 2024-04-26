@@ -118,12 +118,11 @@ const ABOUT_DATA = {
     TITLE: "A little more about me",
     IMAGE_URL: "images/portrait.png",
     ABOUT_ME_LIST: [
-        "🧑🏻‍💻 My favorite programming language is Swift, but I also know Java and some C++!",
+        "🎓 I'm a Computer Science and Engineering student at Santa Clara University, graduating in June 2024",
+        "🧑🏻‍💻 My favorite programming language is Swift, but I also know Java and some C++",
         "🌉 I'm from the SF Bay Area",
-        "💻 I started coding when I was 13, and published my first app to the Apple App Store when I was 17",
         "🏋 In my free time, I like to exercise, hang out with friends, listen to music, cook, or play video games.",
-        "🎿 I also love to ski, as well as watching baseball and Formula 1",
-
+        "🎿 I also love to ski, as well as watch baseball and Formula 1",
     ]
 };
 

@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Project.color&quot;: &quot;352a3c&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/gavin/Documents/Development/personal_website/public/downloads&quot;,
@@ -74,7 +74,7 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Build">
+  <component name="RunManager" selected="Node.js.Deploy">
     <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -149,7 +149,8 @@
       <workItem from="1689015226545" duration="3461000" />
       <workItem from="1693466257744" duration="954000" />
       <workItem from="1698475619156" duration="2384000" />
-      <workItem from="1701148412786" duration="312000" />
+      <workItem from="1701148412786" duration="540000" />
+      <workItem from="1703813945793" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -493,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701148614504</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Improve Quizlet description again">
+      <option name="closed" value="true" />
+      <created>1701148796819</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1701148796819</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +520,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test" />
     <MESSAGE value="Add App Store URL for Food Reviews" />
     <MESSAGE value="Fix Resume.pdf" />
     <MESSAGE value="push update" />
@@ -536,6 +544,7 @@
     <MESSAGE value="Update resume, experience and portrait" />
     <MESSAGE value="Update dependencies" />
     <MESSAGE value="Improve Quizlet description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve Quizlet description" />
+    <MESSAGE value="Improve Quizlet description again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improve Quizlet description again" />
   </component>
 </project>
