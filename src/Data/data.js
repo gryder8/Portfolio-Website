@@ -11,7 +11,7 @@ const NAVBAR_DATA = [
 const BANNER_DATA = {
     HEADING: "Hey there, I'm Gavin 👋",
     DESCRIPTION:
-        "CSE Student @ SCU, Assistant iOS Engineer @ Quizlet, Former Intern @ Apple",
+        "CSE Student @ SCU, Assistant iOS Engineer @ Quizlet, Incoming Software Engineer @ Apple",
     GITHUB_URL:
         "https://github.com/gryder8",
     VISIT_GITHUB: "GitHub",
