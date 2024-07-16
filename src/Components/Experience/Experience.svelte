@@ -20,6 +20,8 @@
                         <b>{list.NAME}</b>
                         <br />
                         {list.DESIGNATION}
+                        <br />
+                        <i>{list.DATE}</i>
                     </p>
                 </div>
             {/each}

@@ -80,35 +80,40 @@ const EXPERIENCE_DATA = {
                 "Working as an iOS Assistant, contributing small bug fixes and improvements. Added unit tests to back them and prevent regressions. Using UIKit, Swift and XCTest.",
             IMAGE_URL: "images/quizlet-logo.jpeg",
             NAME: "Quizlet",
-            DESIGNATION: "Assistant iOS Engineer"
+            DESIGNATION: "Assistant iOS Engineer",
+            DATE: "September 2023 - June 2024"
         },
         {
             DESCRIPTION:
                 "Worked in the Applications Special Projects Group on Journal. Used Swift, UIKit, and some CoreData. Also contributed numerous bug fixes and small features into production and worked on an exploratory project.",
             IMAGE_URL: "images/apple-logo.jpeg",
             NAME: "Apple",
-            DESIGNATION: "Software Engineering Intern"
+            DESIGNATION: "Software Engineering Intern",
+            DATE: "June 2023 - September 2023"
         },
         {
             DESCRIPTION:
                 "Worked in the Applications Special Projects Group on Journal, using Swift and SwiftUI as well as some CoreData and Combine.",
             IMAGE_URL: "images/apple-logo.jpeg",
             NAME: "Apple",
-            DESIGNATION: "Software Engineering Intern"
+            DESIGNATION: "Software Engineering Intern",
+            DATE: "June 2022 - September 2022"
         },
         {
             DESCRIPTION:
                 "Part of a student and faculty led startup to make dance education more accessible using IoT wearables.",
             IMAGE_URL: "images/swing-beats-icon.jpeg",
             NAME: "Swingbeats",
-            DESIGNATION: "iOS Lead"
+            DESIGNATION: "iOS Lead",
+            DATE: "2022 - 2023"
         },
         {
             DESCRIPTION:
                 "Remotely managed a team of 7 interns, planning sprints and delegating development work to myself and others.",
             IMAGE_URL: "images/real-estate-logo.jpeg",
             NAME: "Real Estate Dashboard Inc.",
-            DESIGNATION: "Lead iOS Intern"
+            DESIGNATION: "Lead iOS Intern",
+            DATE: "2021"
         }
     ],
 };
