@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Update subtitle banner text">
+    <list default="true" id="303cf00f-db70-4ef0-bde6-9f0b453d4dfa" name="Changes" comment="Add dates to experience">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Experience/Experience.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Experience/Experience.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +45,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Node.js.Deploy.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.gh-pages.js.executor&quot;: &quot;Run&quot;,
     &quot;Project.color&quot;: &quot;352a3c&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -58,6 +58,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;npm.Build.executor&quot;: &quot;Run&quot;,
     &quot;npm.Run Locally.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/gavin/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -77,8 +78,8 @@
       <recent name="$PROJECT_DIR$/src/Components/Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Build">
-    <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="npm.Run Locally">
+    <configuration name="Deploy" type="NodeJSConfigurationType" temporary="true" path-to-node="/usr/local/Cellar/node/22.4.0/bin/node" path-to-js-file="gh-pages.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Build" type="js.build_tools.npm">
@@ -91,7 +92,7 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="Run Locally" type="js.build_tools.npm" temporary="true">
+    <configuration name="Run Locally" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
@@ -108,7 +109,6 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.Run Locally" />
         <item itemvalue="Node.js.Deploy" />
       </list>
     </recent_temporary>
@@ -164,7 +164,8 @@
       <workItem from="1714166456597" duration="424000" />
       <workItem from="1715810882035" duration="708000" />
       <workItem from="1721104908189" duration="54000" />
-      <workItem from="1721104977846" duration="276000" />
+      <workItem from="1721104977846" duration="1057000" />
+      <workItem from="1725673515482" duration="184000" />
     </task>
     <task id="LOCAL-00001" summary="Moved files (attempt GH pages compatibility)">
       <created>1659942356351</created>
@@ -460,14 +461,6 @@
       <option name="project" value="LOCAL" />
       <updated>1689061063127</updated>
     </task>
-    <task id="LOCAL-00045" summary="Add .gitignore">
-      <option name="closed" value="true" />
-      <created>1693467040385</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1693467040385</updated>
-    </task>
     <task id="LOCAL-00046" summary="Update resume, experience and portrait">
       <option name="closed" value="true" />
       <created>1698477043579</created>
@@ -516,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715811263685</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Add dates to experience">
+      <option name="closed" value="true" />
+      <created>1721105317612</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1721105317613</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,7 +535,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix Resume.pdf" />
     <MESSAGE value="push update" />
     <MESSAGE value="Push update" />
     <MESSAGE value="New favicon" />
@@ -559,6 +559,7 @@
     <MESSAGE value="Improve Quizlet description again" />
     <MESSAGE value="Update About Me" />
     <MESSAGE value="Update subtitle banner text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update subtitle banner text" />
+    <MESSAGE value="Add dates to experience" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add dates to experience" />
   </component>
 </project>

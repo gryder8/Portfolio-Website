@@ -11,7 +11,7 @@ const NAVBAR_DATA = [
 const BANNER_DATA = {
     HEADING: "Hey there, I'm Gavin 👋",
     DESCRIPTION:
-        "CSE Student @ SCU, Assistant iOS Engineer @ Quizlet, Incoming Software Engineer @ Apple",
+        "Software Engineer @ Apple",
     GITHUB_URL:
         "https://github.com/gryder8",
     VISIT_GITHUB: "GitHub",
@@ -75,6 +75,14 @@ const PROJECT_DATA = {
 const EXPERIENCE_DATA = {
     HEADING: "Work Experience",
     EXPERIENCE_LIST: [
+        {
+            DESCRIPTION:
+                "Applications – Journal",
+            IMAGE_URL: "images/apple-logo.jpeg",
+            NAME: "Apple",
+            DESIGNATION: "Software Engineer",
+            DATE: "September 2024 - Present"
+        },
         {
             DESCRIPTION:
                 "Working as an iOS Assistant, contributing small bug fixes and improvements. Added unit tests to back them and prevent regressions. Using UIKit, Swift and XCTest.",
