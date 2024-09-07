@@ -1,5 +1,5 @@
 
-(function(l, r) { if (!l || l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (self.location.host || 'localhost').split(':')[0] + ':35730/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(self.document);
+(function(l, r) { if (!l || l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (self.location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(self.document);
 var app = (function () {
     'use strict';
 
@@ -3717,7 +3717,7 @@ var app = (function () {
     const BANNER_DATA = {
         HEADING: "Hey there, I'm Gavin 👋",
         DESCRIPTION:
-            "CSE Student @ SCU, Assistant iOS Engineer @ Quizlet, Incoming Software Engineer @ Apple",
+            "Software Engineer @ Apple",
         GITHUB_URL:
             "https://github.com/gryder8",
         VISIT_GITHUB: "GitHub",
@@ -3781,6 +3781,14 @@ var app = (function () {
     const EXPERIENCE_DATA = {
         HEADING: "Work Experience",
         EXPERIENCE_LIST: [
+            {
+                DESCRIPTION:
+                    "Applications – Journal",
+                IMAGE_URL: "images/apple-logo.jpeg",
+                NAME: "Apple",
+                DESIGNATION: "Software Engineer",
+                DATE: "September 2024 - Present"
+            },
             {
                 DESCRIPTION:
                     "Working as an iOS Assistant, contributing small bug fixes and improvements. Added unit tests to back them and prevent regressions. Using UIKit, Swift and XCTest.",
