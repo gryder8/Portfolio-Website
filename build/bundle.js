@@ -3837,7 +3837,7 @@ var app = (function () {
         TITLE: "A little more about me",
         IMAGE_URL: "images/portrait.png",
         ABOUT_ME_LIST: [
-            "🎓 I'm a Computer Science and Engineering student at Santa Clara University, graduating in June 2024",
+            "🎓 I graduated from Santa Clara University in 2024 with a B.S. in Computer Science and Engineering",
             "🧑🏻‍💻 My favorite programming language is Swift, but I also know Java and some C++",
             "🌉 I'm from the SF Bay Area",
             "🏋 In my free time, I like to exercise, hang out with friends, listen to music, cook, or play video games.",
