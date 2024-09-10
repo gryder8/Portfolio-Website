@@ -35,7 +35,7 @@ const PROJECT_DATA = {
             PROJECT_URL: "https://github.com/gryder8/MLB-The-Show-Flips-App",
             APP_STORE_URL: "",
             DESCRIPTION:
-                "Using SwiftUI and async/await with Swift 5.5, I built an iOS application to help players determine which cards on the market were the most profitable to flip using MLB The Show's Market REST API",
+                "Using SwiftUI and async/await with Swift 5.5, I built an iOS application to help players determine which cards on the market were the most profitable to flip using MLB The Show's Market REST API.",
             URL: "images/MLBTS-Flips.png"
         },
         {
@@ -57,7 +57,7 @@ const PROJECT_DATA = {
             LABEL: "Risky Roads",
             PROJECT_URL: "https://github.com/gryder8/Risky-Roads",
             APP_STORE_URL: "",
-            DESCRIPTION: "Project made during INRIX Hacks 2021 which uses Flask backend and Swift frontend to pass route data to an iOS app to show the user the fastest and safest route between 2 destinations",
+            DESCRIPTION: "Project made during INRIX Hacks 2021 which uses Flask backend and Swift frontend to pass route data to an iOS app to show the user the fastest and safest route between 2 destinations.",
             URL: "images/roads.png"
         },
         {
@@ -65,7 +65,7 @@ const PROJECT_DATA = {
             PROJECT_URL: "https://github.com/gryder8/BellTimer",
             APP_STORE_URL: "https://apps.apple.com/us/app/lahs-bell-timer/id1460500252",
             DESCRIPTION:
-                "Back in high school, I made this app which shows a countdown to the next bell. It uses files hosted on a server and a local cache to get the latest information",
+                "Back in high school, I made this app which shows a countdown to the next bell. It uses files hosted on a server and a local cache to get the latest information.",
             URL: "images/BellTimerIcon.png"
         }
     ],
