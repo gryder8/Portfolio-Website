@@ -64,6 +64,12 @@
         overflow: hidden;
     }
 
+    .project-img:hover {
+        transform: scale(1.05);
+        transition: transform 0.2s;
+        box-shadow: 0 0 11px rgba(33,33,33,.2);
+    }
+
     .project h4 {
         padding: 5px;
         margin-top: 25px;
