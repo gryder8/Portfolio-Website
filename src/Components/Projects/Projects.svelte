@@ -2,7 +2,7 @@
 
 <script>
     export let projectData = {};
-    const {HEADING, ALL_PROJECTS, PROJECT_LIST, NOTE} = projectData;
+    const {HEADING, PROJECT_LIST, NOTE} = projectData;
 </script>
 
 <!------------------------------------------->
@@ -89,20 +89,6 @@
         display: block;
         transform: translateY(45px);
     }
-
-    /*
-        .title::after {
-            content: "";
-            background: linear-gradient(90deg, #0072ff 0%, #00d4ff 100%);
-            height: 10px;
-            width: 50px;
-            margin-left: auto;
-            margin-right: auto;
-            margin-bottom: 40px;
-            display: block;
-            transform: translateY(24px);
-        }
-     */
 
     section .btn-primary {
         box-shadow: none;

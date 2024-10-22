@@ -35,15 +35,6 @@
         width: 50%;
         height: auto;
     }
-    /*
-    .rounded-img-box {
-        object-fit: cover;
-        width: 400px;
-        height: 400px;
-        border-radius: 20%;
-        overflow: hidden;
-    }
-    */
     .about-title {
         margin-top: 8%;
         margin-bottom: 20px;
